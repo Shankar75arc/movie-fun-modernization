@@ -13,7 +13,7 @@ import javax.sql.DataSource;
 @Configuration
 @EnableAsync
 @EnableScheduling
-public class AlbumsUpdateScheduler {
+public class    AlbumsUpdateScheduler {
 
     private static final long SECONDS = 1000;
 
